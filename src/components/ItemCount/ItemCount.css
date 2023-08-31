@@ -1,0 +1,15 @@
+#contador{
+
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 8px;
+
+}
+
+#agregar{
+
+display: flex;
+margin: 10px;
+
+}

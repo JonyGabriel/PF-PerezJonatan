@@ -1,0 +1,15 @@
+#navbar {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
+a {
+
+    color: 	#fc0000 !important;
+    text-decoration: none;
+    padding: 10px;
+    }
+    

@@ -1,0 +1,22 @@
+.alerta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 175px;
+    margin-bottom: 175px;
+}
+
+.botones {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#total {
+    display: flex;
+    justify-content: center;
+}
+.carrito {
+    color: red;
+}

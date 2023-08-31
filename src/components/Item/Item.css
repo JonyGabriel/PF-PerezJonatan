@@ -1,0 +1,10 @@
+#productos {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    outline: 0.2rem solid #ffffff;
+    border-radius: 15px;
+    margin: 2rem;
+    padding: 1rem;
+    }

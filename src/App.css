@@ -1,0 +1,20 @@
+.texto {
+display: flex;
+justify-content: center;
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0%;
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.texto{
+  display: flex;
+  color: red;
+  margin-top: 2%;
+}
